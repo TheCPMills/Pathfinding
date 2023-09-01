@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GraphTester",
+            "request": "launch",
+            "mainClass": "GraphTester",
+            "projectName": "Pathfinding_32634fef"
+        },
+        {
+            "type": "java",
+            "name": "SVGTester",
+            "request": "launch",
+            "mainClass": "SVGTester",
+            "projectName": "Pathfinding_32634fef"
+        },
+        {
+            "type": "java",
+            "name": "UUIDGenerator",
+            "request": "launch",
+            "mainClass": "bezier.uuid.UUIDGenerator",
+            "projectName": "Pathfinding_32634fef"
+        },
+        {
+            "type": "java",
+            "name": "ClosestPointOnBezier",
+            "request": "launch",
+            "mainClass": "ClosestPointOnBezier",
+            "projectName": "Pathfinding_32634fef"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "vmArgs": "-enableassertions",
+            "projectName": "Pathfinding_32634fef"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "--module-path C:/Users/cpmil//javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "Pathfinding_32634fef"
+        }
+    ]
+}
